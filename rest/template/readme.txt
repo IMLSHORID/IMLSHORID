@@ -1,1 +1,0 @@
-This is example for me and other. But, must see in https://imlshor.nasihosting.com/LICENSE to view agree and decline based law in author of make license.
