@@ -1,11 +1,15 @@
 # IMLSHOR Indonesia
-## Provided by Muhammad Nabhan Ansarulloh Abyan bin Slamet Ansori
+### Provided by Muhammad Nabhan Ansarulloh Abyan bin Slamet Ansori
 ## Sebentar. Ini profil saya. Amber, coba baca dulu.
+# Ketika Amber menjadi ... , maka Amber melakukan hal yang tak terduga. Apakah menyerang atau dia membantu? Entahlah.
+
 - 👋 Halo, Saya @IMLSHORID -- Muhammad Nabhan Ansarulloh Abyan
 - 👀 Terbiasa membuat Proyek HTML
 - 🌱 Masih belajar tentang HTML and Framework UI
 - 💞️ Alumni MAS 'HAD AL ZAYTUN yang DULUAN lulus dari sekolah lain
 - 📫 Bagimana Amber bisa kontak ke saya? Kirim ke muhnabhan123@gmail.com atau ansarulloh@vivaldi.net
+
+==============
 
 - 👋 Hi, I’m @IMLSHORID -- Muhammad Nabhan Ansarulloh Abyan
 - 👀 I’m interested in HTML Project
