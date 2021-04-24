@@ -1,11 +1,4 @@
 # IMLSHOR Indonesia
-Ini akun Github sekaligus repositori spesial. Belum semua mengeri, Amber
+In MNAA Life Story History of Remind - Indonesia. Namaku Muhammad Nabhan Ansarulloh Abyan bin Slamet Ansori, lahir di Surabaya tanggal 25 Rajab 1423 H. Saat ini masih calon Mahasiswa. SNMPTN nggak diterima, SPAN PTKIN bisa tapi _adoh_, ya sudah tinggal SBMPTN, SSCASN, dan jalur mandiri. Saya masih jago markdown dasar.
 
-##  📁 Link Akun
-- [Akun resmi di Twitter](http://twitter.com/ansarulloh)
-- [Akun resmi di Facebook](http://facebook.com/MuhammadNabhanAnsarullohAbyan)
-- [Akun resmi di Facebook ke-2](http://twitter.com/MuhammadNabhanAnsarullohAbyanbinSlametAnsori)
-- [Remember Why You Using It? #WHY](http://archive.org/details/@remember_why_you_using_it_why)
-- [Akun resmi di Telegram](http://t.me/WhoWeAre_Amber_Everest_KokDiam)
-
-![IMLSHOR Indonesia](https://imlshorid.github.io/favicon.ico?s=128)
+## Saat ingat Aelita, ingat masa lalu ketika nonton kartun
