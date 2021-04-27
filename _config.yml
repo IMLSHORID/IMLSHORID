@@ -4,6 +4,7 @@ description: "Tanyalah Aelita."
 remote_theme: pmarsceill/just-the-docs
 show_downloads: true
 search_enabled: false
+include: "README.md"
 
 collections:
   docs:
