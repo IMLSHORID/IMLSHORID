@@ -1,6 +1,7 @@
 title: Halaman minimal muhnabhan123.eu.org
 description: "Tanyalah Aelita."
 
+remote_theme: pmarsceill/just-the-docs
 show_downloads: true
 
 footer_content: "Provided by Muhammad Nabhan Ansarulloh Abyan"
