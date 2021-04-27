@@ -6,6 +6,13 @@ show_downloads: true
 search_enabled: false
 include: "README.md"
 
+aux_links:
+  "Situs Blog MNAA":
+    - "//imlshorid.github.io"
+    
+  "/status.amber":
+    - "//muhnabhan123.eu.org/status.amber"
+
 collections:
   docs:
     name: Apakah ini?
