@@ -7,16 +7,16 @@ search_enabled: false
 include: "README.md"
 
 aux_links:
-  "Situs Utama MNAA":
-    - "//imlshorid.github.io"
+  "Beranda":
+    - "/"
     
-  "/status.amber":
-    - ""
+  "Dokumen":
+    - "/docs"
 
 collections:
   docs:
-    name: Apakah ini?
+    name: Dokumen
     permalink: "/:collection/:path/"
-    output: true
+    output: false
 
-footer_content: "Provided by Muhammad Nabhan Ansarulloh Abyan"
+footer_content: "<i>Provided by Muhammad Nabhan Ansarulloh Abyan</i>"
