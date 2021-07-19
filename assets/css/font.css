@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Arial';
+	font-style: normal;
+	src: url(../font/arial.woff2) format('woff2');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	src: url(../font/segoeui.woff2) format('woff2');
+}
