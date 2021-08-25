@@ -1,0 +1,17 @@
+#+TITLE: / Portofolio
+#+AUTHOR: Initial from Qiqi
+
+# Portofolio - 	Intial from Qiqi
+
+** _Portofolio IMLSHOR Indonesia_
+
+- Lulusan Madrasah Ma'had Al-Zaytun
+- Belum kuliah dan ingin kuliah asal tau keadaan orang tua dan psikologis ini
+- HTML dan CSS pemula dan menengah 1
+
+Versi 1443 H - Anggrek Sukirman Hu Majid (Anggrek Sekar Hu Majid) \\
+Versi flo 1443 H - Hu Tao Sudirman Nakashima
+
+---
+
+[[http://imlshorid.github.io/assets/img/tentang/ZhongTaoEdited.png]]
