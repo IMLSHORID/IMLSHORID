@@ -2,8 +2,8 @@
 @import url('HuTao.css');
 
 /* HTML dengan elemen yang diubah */
-html {font-size:125%; font-family: Arial, 'Noto Sans', 'Roboto', sans-serif;color: white; background: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5), rgb(0, 0, 0, 0.3)), url('../img/bagian/utama/utama.jpg');background-repeat: no-repeat; background-position: center; background-size: cover; background-attachment: fixed; }
-h1,h2,h3,h4,h5,h6,h7,h8,h9,h10 {font-family: 'Times New Roman', 'Noto Serif', 'Dejavu Serif', serif;} a {color: aqua;} a:hover {color: blue;}
+html {font-size:125%; font-family: sans-serif;color: white; background: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5), rgb(0, 0, 0, 0.3)), url('../img/bagian/utama/utama.jpg');background-repeat: no-repeat; background-position: center; background-size: cover; background-attachment: fixed; }
+h1,h2,h3,h4,h5,h6,h7,h8,h9,h10 {font-family: serif;} a {color: aqua;} a:hover {color: blue;}
 /* Flex yang dimaksud ialah tampilan tabel */
 .flex-container { display: table; table-layout: fixed; width: 100%; } .flex-Amber { display: table-cell; order: 0; padding: 10px; } .flex-AmberFX { display: table-cell; position: relative; order: 1; padding: 20px; }
 /* Bagian Menu */
